@@ -1,0 +1,122 @@
+# #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
+# #-#-#-#-#  a.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package
+# PACKAGE 软件包的简体中文翻译.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:23+0800\n"
+"PO-Revision-Date: 2022-12-16 14:32+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  a.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:20+0800\n"
+"PO-Revision-Date: 2022-12-16 15:37+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tgchannel.php:17
+msgid "Telegram Channels"
+msgstr "TG频道"
+
+#: tgchannel.php:18 tgchannel.php:24
+msgid "Telegram Channel"
+msgstr "TG频道"
+
+#: tgchannel.php:19 tgchannel.php:20
+msgid "Add Telegram Channel"
+msgstr "添加TG频道"
+
+#: tgchannel.php:21
+msgid "Edit Telegram Channel"
+msgstr "编辑TG频道"
+
+#: tgchannel.php:22
+msgid "New Telegram Channel"
+msgstr "新TG频道"
+
+#: tgchannel.php:36
+msgid "TG Bots"
+msgstr "TG机器人"
+
+#: tgchannel.php:37 tgchannel.php:43
+msgid "TG Bot"
+msgstr "TG机器人"
+
+#: tgchannel.php:38 tgchannel.php:39
+msgid "Add TG Bot"
+msgstr "添加TG机器人"
+
+#: tgchannel.php:40
+msgid "Edit TG Bot"
+msgstr "编辑TG机器人"
+
+#: tgchannel.php:41
+msgid "New TG Bot"
+msgstr "新TG机器人"
+
+#: tgchannel.php:57
+msgid "TG Bot Categories"
+msgstr "TG机器人分类"
+
+#: tgchannel.php:58 tgchannel.php:67
+msgid "TG Bot Category"
+msgstr "TG机器人分类"
+
+#: tgchannel.php:59
+msgid "Search TG Bot Categories"
+msgstr "搜索TG机器人分类"
+
+#: tgchannel.php:60
+msgid "All TG Bot Categories"
+msgstr "全部TG机器人分类"
+
+#: tgchannel.php:61
+msgid "Parent TG Bot Category"
+msgstr "父TG机器人分类"
+
+#: tgchannel.php:62
+msgid "Parent TG Bot Category:"
+msgstr "父TG机器人分类："
+
+#: tgchannel.php:63
+msgid "Edit TG Bot Category"
+msgstr "编辑TG机器人分类"
+
+#: tgchannel.php:64
+msgid "Update TG Bot Category"
+msgstr "更新TG机器人分类"
+
+#: tgchannel.php:65
+msgid "Add New TG Bot Category"
+msgstr "添加新TG机器人分类"
+
+#: tgchannel.php:66
+msgid "New TG Bot Category Name"
+msgstr "新TG机器人分类名称"
+
+#: tgchannel.php:71
+msgid "Telegram Bots Categories"
+msgstr "TG机器人分类"
