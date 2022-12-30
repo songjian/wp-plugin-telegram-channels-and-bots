@@ -1,4 +1,6 @@
 # #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # Chinese translations for PACKAGE package.
@@ -25,9 +27,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Song Jian <songjian@codeorder.cn>, 2022.
 #
+# #-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
+# #-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
@@ -68,6 +84,28 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-30 14:04+0800\n"
 "PO-Revision-Date: 2022-12-30 14:29+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 14:52+0800\n"
+"PO-Revision-Date: 2022-12-30 14:58+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 15:01+0800\n"
+"PO-Revision-Date: 2022-12-30 15:01+0800\n"
 "Last-Translator: Song Jian <songjian@codeorder.cn>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
