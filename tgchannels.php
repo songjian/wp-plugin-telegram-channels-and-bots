@@ -1,27 +1,27 @@
 <?php
 /**
- * Plugin Name: TG Channels Favorites
- * Plugin URI: https://codeorder.cn/
+ * Plugin Name: Telegram Channels and Bots
+ * Plugin URI: https://github.com/songjian/wp-telegram-channels-and-bots
  * Author: sj
  * Author URI: https://codeorder.cn/
  * Version: 0.0.1
  * Requires at least: 5.9
  * Requires PHP: 7.3
- * Text Domain: tgchannel
+ * Text Domain: tgchannels
  * Domain Path: /languages
  */
 
 function sj_custom_post_type(){
     register_post_type('tgchannel', [
         'labels'=>[
-            'name' => __('Telegram Channels', 'tgchannel'),
-            'singular_name' => __('Telegram Channel', 'tgchannel'),
-            'add_new' => __('Add Telegram Channel', 'tgchannel'),
-            'add_new_item' => __('Add Telegram Channel', 'tgchannel'),
-            'edit_item' => __('Edit Telegram Channel', 'tgchannel'),
-            'new_item' => __('New Telegram Channel', 'tgchannel'),
+            'name' => __('Telegram Channels', 'tgchannels'),
+            'singular_name' => __('Telegram Channel', 'tgchannels'),
+            'add_new' => __('Add Telegram Channel', 'tgchannels'),
+            'add_new_item' => __('Add Telegram Channel', 'tgchannels'),
+            'edit_item' => __('Edit Telegram Channel', 'tgchannels'),
+            'new_item' => __('New Telegram Channel', 'tgchannels'),
         ],
-        'description' => __('Telegram Channel', 'tgchannel'),
+        'description' => __('Telegram Channel', 'tgchannels'),
         'public' => true,
         'menu_icon' => 'dashicons-airplane',
         'map_meta_cap' => true,
@@ -33,14 +33,14 @@ function sj_custom_post_type(){
 
     register_post_type('tggroup', [
         'labels'=>[
-            'name' => __('Telegram Groups', 'tgchannel'),
-            'singular_name' => __('Telegram Group', 'tgchannel'),
-            'add_new' => __('Add Telegram Group', 'tgchannel'),
-            'add_new_item' => __('Add Telegram Group', 'tgchannel'),
-            'edit_item' => __('Edit Telegram Group', 'tgchannel'),
-            'new_item' => __('New Telegram Group', 'tgchannel'),
+            'name' => __('Telegram Groups', 'tgchannels'),
+            'singular_name' => __('Telegram Group', 'tgchannels'),
+            'add_new' => __('Add Telegram Group', 'tgchannels'),
+            'add_new_item' => __('Add Telegram Group', 'tgchannels'),
+            'edit_item' => __('Edit Telegram Group', 'tgchannels'),
+            'new_item' => __('New Telegram Group', 'tgchannels'),
         ],
-        'description' => __('Telegram Group', 'tgchannel'),
+        'description' => __('Telegram Group', 'tgchannels'),
         'public' => true,
         'menu_icon' => 'dashicons-groups',
         'map_meta_cap' => true,
@@ -52,14 +52,14 @@ function sj_custom_post_type(){
 
     register_post_type('tgbot', [
         'labels' => [
-            'name' => __('TG Bots', 'tgchannel'),
-            'singular_name' => __('TG Bot', 'tgchannel'),
-            'add_new' => __('Add TG Bot', 'tgchannel'),
-            'add_new_item' => __('Add TG Bot', 'tgchannel'),
-            'edit_item' => __('Edit TG Bot', 'tgchannel'),
-            'new_item' => __('New TG Bot', 'tgchannel'),
+            'name' => __('TG Bots', 'tgchannels'),
+            'singular_name' => __('TG Bot', 'tgchannels'),
+            'add_new' => __('Add TG Bot', 'tgchannels'),
+            'add_new_item' => __('Add TG Bot', 'tgchannels'),
+            'edit_item' => __('Edit TG Bot', 'tgchannels'),
+            'new_item' => __('New TG Bot', 'tgchannels'),
         ],
-        'description' => __('TG Bot', 'tgchannel'),
+        'description' => __('TG Bot', 'tgchannels'),
         'public' => true,
         'menu_icon' => 'dashicons-reddit',
         'map_meta_cap' => true,
@@ -72,21 +72,21 @@ add_action('init', 'sj_custom_post_type');
 
 function sj_register_taxonomy_tgbotcategory(){
     $labels = [
-        'name' => __('TG Bot Categories', 'tgchannel'),
-        'singular_name' => __('TG Bot Category', 'tgchannel'),
-        'search_item' => __('Search TG Bot Categories', 'tgchannel'),
-        'all_items' => __('All TG Bot Categories', 'tgchannel'),
-        'parent_itme' => __('Parent TG Bot Category', 'tgchannel'),
-        'parent_item_colon' => __('Parent TG Bot Category:', 'tgchannel'),
-        'edit_item' => __('Edit TG Bot Category', 'tgchannel'),
-        'update_item' => __('Update TG Bot Category', 'tgchannel'),
-        'add_new_item' => __('Add New TG Bot Category', 'tgchannel'),
-        'new_item_name' => __('New TG Bot Category Name', 'tgchannel'),
-        'menu_name' => __('TG Bot Category', 'tgchannel'),
+        'name' => __('TG Bot Categories', 'tgchannels'),
+        'singular_name' => __('TG Bot Category', 'tgchannels'),
+        'search_item' => __('Search TG Bot Categories', 'tgchannels'),
+        'all_items' => __('All TG Bot Categories', 'tgchannels'),
+        'parent_itme' => __('Parent TG Bot Category', 'tgchannels'),
+        'parent_item_colon' => __('Parent TG Bot Category:', 'tgchannels'),
+        'edit_item' => __('Edit TG Bot Category', 'tgchannels'),
+        'update_item' => __('Update TG Bot Category', 'tgchannels'),
+        'add_new_item' => __('Add New TG Bot Category', 'tgchannels'),
+        'new_item_name' => __('New TG Bot Category Name', 'tgchannels'),
+        'menu_name' => __('TG Bot Category', 'tgchannels'),
     ];
     $args = [
         'labels' => $labels,
-        'description' => __('Telegram Bots Categories', 'tgchannel'),
+        'description' => __('Telegram Bots Categories', 'tgchannels'),
         'public' => true,
         'hierarchical' => true,
         'show_in_rest' => true,
