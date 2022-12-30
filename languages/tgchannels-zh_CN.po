@@ -1,3 +1,5 @@
+# #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
@@ -11,9 +13,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Song Jian <songjian@codeorder.cn>, 2022.
 #
+# #-#-#-#-#  tgchannel2-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
+# #-#-#-#-#  tmptgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -30,6 +46,28 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-16 15:20+0800\n"
 "PO-Revision-Date: 2022-12-16 15:37+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  tgchannel2-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 14:04+0800\n"
+"PO-Revision-Date: 2022-12-30 14:08+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  tmptgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 14:04+0800\n"
+"PO-Revision-Date: 2022-12-30 14:29+0800\n"
 "Last-Translator: Song Jian <songjian@codeorder.cn>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -120,3 +158,23 @@ msgstr "新TG机器人分类名称"
 #: tgchannels.php:71
 msgid "Telegram Bots Categories"
 msgstr "TG机器人分类"
+
+#: tgchannels.php:36
+msgid "Telegram Groups"
+msgstr ""
+
+#: tgchannels.php:37 tgchannels.php:43
+msgid "Telegram Group"
+msgstr ""
+
+#: tgchannels.php:38 tgchannels.php:39
+msgid "Add Telegram Group"
+msgstr ""
+
+#: tgchannels.php:40
+msgid "Edit Telegram Group"
+msgstr ""
+
+#: tgchannels.php:41
+msgid "New Telegram Group"
+msgstr ""

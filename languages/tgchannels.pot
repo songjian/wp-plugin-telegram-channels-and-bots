@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 15:20+0800\n"
+"POT-Creation-Date: 2022-12-30 14:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,86 +17,106 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: tgchannel.php:17
+#: tgchannels.php:17
 msgid "Telegram Channels"
 msgstr ""
 
-#: tgchannel.php:18 tgchannel.php:24
+#: tgchannels.php:18 tgchannels.php:24
 msgid "Telegram Channel"
 msgstr ""
 
-#: tgchannel.php:19 tgchannel.php:20
+#: tgchannels.php:19 tgchannels.php:20
 msgid "Add Telegram Channel"
 msgstr ""
 
-#: tgchannel.php:21
+#: tgchannels.php:21
 msgid "Edit Telegram Channel"
 msgstr ""
 
-#: tgchannel.php:22
+#: tgchannels.php:22
 msgid "New Telegram Channel"
 msgstr ""
 
-#: tgchannel.php:36
+#: tgchannels.php:36
+msgid "Telegram Groups"
+msgstr ""
+
+#: tgchannels.php:37 tgchannels.php:43
+msgid "Telegram Group"
+msgstr ""
+
+#: tgchannels.php:38 tgchannels.php:39
+msgid "Add Telegram Group"
+msgstr ""
+
+#: tgchannels.php:40
+msgid "Edit Telegram Group"
+msgstr ""
+
+#: tgchannels.php:41
+msgid "New Telegram Group"
+msgstr ""
+
+#: tgchannels.php:55
 msgid "TG Bots"
 msgstr ""
 
-#: tgchannel.php:37 tgchannel.php:43
+#: tgchannels.php:56 tgchannels.php:62
 msgid "TG Bot"
 msgstr ""
 
-#: tgchannel.php:38 tgchannel.php:39
+#: tgchannels.php:57 tgchannels.php:58
 msgid "Add TG Bot"
 msgstr ""
 
-#: tgchannel.php:40
+#: tgchannels.php:59
 msgid "Edit TG Bot"
 msgstr ""
 
-#: tgchannel.php:41
+#: tgchannels.php:60
 msgid "New TG Bot"
 msgstr ""
 
-#: tgchannel.php:57
+#: tgchannels.php:75
 msgid "TG Bot Categories"
 msgstr ""
 
-#: tgchannel.php:58 tgchannel.php:67
+#: tgchannels.php:76 tgchannels.php:85
 msgid "TG Bot Category"
 msgstr ""
 
-#: tgchannel.php:59
+#: tgchannels.php:77
 msgid "Search TG Bot Categories"
 msgstr ""
 
-#: tgchannel.php:60
+#: tgchannels.php:78
 msgid "All TG Bot Categories"
 msgstr ""
 
-#: tgchannel.php:61
+#: tgchannels.php:79
 msgid "Parent TG Bot Category"
 msgstr ""
 
-#: tgchannel.php:62
+#: tgchannels.php:80
 msgid "Parent TG Bot Category:"
 msgstr ""
 
-#: tgchannel.php:63
+#: tgchannels.php:81
 msgid "Edit TG Bot Category"
 msgstr ""
 
-#: tgchannel.php:64
+#: tgchannels.php:82
 msgid "Update TG Bot Category"
 msgstr ""
 
-#: tgchannel.php:65
+#: tgchannels.php:83
 msgid "Add New TG Bot Category"
 msgstr ""
 
-#: tgchannel.php:66
+#: tgchannels.php:84
 msgid "New TG Bot Category Name"
 msgstr ""
 
-#: tgchannel.php:71
+#: tgchannels.php:89
 msgid "Telegram Bots Categories"
 msgstr ""
