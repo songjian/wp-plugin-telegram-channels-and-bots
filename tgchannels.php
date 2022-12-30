@@ -27,7 +27,7 @@ function sj_custom_post_type(){
         'map_meta_cap' => true,
         'has_archive' => true,
         'delete_with_user' => false,
-        'show_in_rest' => true,
+        // 'show_in_rest' => true,
         'taxonomies' => ['tgchannel_category'],
     ]);
 
