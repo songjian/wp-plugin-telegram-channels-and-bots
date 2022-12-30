@@ -2,6 +2,7 @@
 # #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # #-#-#-#-#  tgchannel-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
 # Chinese translations for PACKAGE package.
@@ -46,9 +47,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Song Jian <songjian@codeorder.cn>, 2022.
 #
+# #-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Song Jian <songjian@codeorder.cn>, 2022.
+#
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  tgchannels-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
@@ -125,6 +133,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-30 15:11+0800\n"
 "PO-Revision-Date: 2022-12-30 15:11+0800\n"
+"Last-Translator: Song Jian <songjian@codeorder.cn>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  tmp-zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 15:31+0800\n"
+"PO-Revision-Date: 2022-12-30 15:31+0800\n"
 "Last-Translator: Song Jian <songjian@codeorder.cn>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -235,3 +254,47 @@ msgstr "编辑TG群组"
 #: tgchannels.php:41
 msgid "New Telegram Group"
 msgstr "新建TG群组"
+
+#: tgchannels.php:75
+msgid "TG Channel Categories"
+msgstr "TG频道分类"
+
+#: tgchannels.php:76 tgchannels.php:85
+msgid "TG Channel Category"
+msgstr "TG频道分类"
+
+#: tgchannels.php:77
+msgid "Search TG Channel Categories"
+msgstr "搜索TG频道分类"
+
+#: tgchannels.php:78
+msgid "All TG Channel Categories"
+msgstr "全部TG频道分类"
+
+#: tgchannels.php:79
+msgid "Parent TG Channel Category"
+msgstr ""
+
+#: tgchannels.php:80
+msgid "Parent TG Channel Category:"
+msgstr "父TG频道分类"
+
+#: tgchannels.php:81
+msgid "Edit TG Channel Category"
+msgstr "编辑TG频道分类"
+
+#: tgchannels.php:82
+msgid "Update TG Channel Category"
+msgstr "更新TG频道分类"
+
+#: tgchannels.php:83
+msgid "Add New TG Channel Category"
+msgstr "添加TG频道分类"
+
+#: tgchannels.php:84
+msgid "New TG Channel Category Name"
+msgstr "新建TG频道分类"
+
+#: tgchannels.php:89
+msgid "Telegram Channels Categories"
+msgstr "TG频道分类"

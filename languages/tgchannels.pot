@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-30 15:11+0800\n"
+"POT-Creation-Date: 2022-12-30 15:31+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,45 +78,89 @@ msgid "New TG Bot"
 msgstr ""
 
 #: tgchannels.php:75
-msgid "TG Bot Categories"
+msgid "TG Channel Categories"
 msgstr ""
 
 #: tgchannels.php:76 tgchannels.php:85
-msgid "TG Bot Category"
+msgid "TG Channel Category"
 msgstr ""
 
 #: tgchannels.php:77
-msgid "Search TG Bot Categories"
+msgid "Search TG Channel Categories"
 msgstr ""
 
 #: tgchannels.php:78
-msgid "All TG Bot Categories"
+msgid "All TG Channel Categories"
 msgstr ""
 
 #: tgchannels.php:79
-msgid "Parent TG Bot Category"
+msgid "Parent TG Channel Category"
 msgstr ""
 
 #: tgchannels.php:80
-msgid "Parent TG Bot Category:"
+msgid "Parent TG Channel Category:"
 msgstr ""
 
 #: tgchannels.php:81
-msgid "Edit TG Bot Category"
+msgid "Edit TG Channel Category"
 msgstr ""
 
 #: tgchannels.php:82
-msgid "Update TG Bot Category"
+msgid "Update TG Channel Category"
 msgstr ""
 
 #: tgchannels.php:83
-msgid "Add New TG Bot Category"
+msgid "Add New TG Channel Category"
 msgstr ""
 
 #: tgchannels.php:84
-msgid "New TG Bot Category Name"
+msgid "New TG Channel Category Name"
 msgstr ""
 
 #: tgchannels.php:89
+msgid "Telegram Channels Categories"
+msgstr ""
+
+#: tgchannels.php:103
+msgid "TG Bot Categories"
+msgstr ""
+
+#: tgchannels.php:104 tgchannels.php:113
+msgid "TG Bot Category"
+msgstr ""
+
+#: tgchannels.php:105
+msgid "Search TG Bot Categories"
+msgstr ""
+
+#: tgchannels.php:106
+msgid "All TG Bot Categories"
+msgstr ""
+
+#: tgchannels.php:107
+msgid "Parent TG Bot Category"
+msgstr ""
+
+#: tgchannels.php:108
+msgid "Parent TG Bot Category:"
+msgstr ""
+
+#: tgchannels.php:109
+msgid "Edit TG Bot Category"
+msgstr ""
+
+#: tgchannels.php:110
+msgid "Update TG Bot Category"
+msgstr ""
+
+#: tgchannels.php:111
+msgid "Add New TG Bot Category"
+msgstr ""
+
+#: tgchannels.php:112
+msgid "New TG Bot Category Name"
+msgstr ""
+
+#: tgchannels.php:117
 msgid "Telegram Bots Categories"
 msgstr ""

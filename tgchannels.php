@@ -27,8 +27,8 @@ function sj_custom_post_type(){
         'map_meta_cap' => true,
         'has_archive' => true,
         'delete_with_user' => false,
-        #'show_in_rest' => true,
-        'taxonomies' => ['course', 'category'],
+        'show_in_rest' => true,
+        'taxonomies' => ['tgchannel_category'],
     ]);
 
     register_post_type('tggroup', [
@@ -46,8 +46,8 @@ function sj_custom_post_type(){
         'map_meta_cap' => true,
         'has_archive' => true,
         'delete_with_user' => false,
-        #'show_in_rest' => true,
-        'taxonomies' => ['course', 'category'],
+        'show_in_rest' => true,
+        'taxonomies' => ['tgchannel_category'],
     ]);
 
     register_post_type('tgbot', [
@@ -69,6 +69,34 @@ function sj_custom_post_type(){
     ]);
 }
 add_action('init', 'sj_custom_post_type');
+
+function sj_register_taxonomy_tgchannelcategory(){
+    $labels = [
+        'name' => __('TG Channel Categories', 'tgchannels'),
+        'singular_name' => __('TG Channel Category', 'tgchannels'),
+        'search_item' => __('Search TG Channel Categories', 'tgchannels'),
+        'all_items' => __('All TG Channel Categories', 'tgchannels'),
+        'parent_itme' => __('Parent TG Channel Category', 'tgchannels'),
+        'parent_item_colon' => __('Parent TG Channel Category:', 'tgchannels'),
+        'edit_item' => __('Edit TG Channel Category', 'tgchannels'),
+        'update_item' => __('Update TG Channel Category', 'tgchannels'),
+        'add_new_item' => __('Add New TG Channel Category', 'tgchannels'),
+        'new_item_name' => __('New TG Channel Category Name', 'tgchannels'),
+        'menu_name' => __('TG Channel Category', 'tgchannels'),
+    ];
+    $args = [
+        'labels' => $labels,
+        'description' => __('Telegram Channels Categories', 'tgchannels'),
+        'public' => true,
+        'hierarchical' => true,
+        'show_in_rest' => true,
+        'show_admin_column' => true,
+        'query_var' => true,
+        'show_in_quick_edit' => true,
+    ];
+    register_taxonomy('tgchannel_category', ['tgchannel', 'tggroup'], $args);
+}
+add_action('init', 'sj_register_taxonomy_tgchannelcategory');
 
 function sj_register_taxonomy_tgbotcategory(){
     $labels = [
